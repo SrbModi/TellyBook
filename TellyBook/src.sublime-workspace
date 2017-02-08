@@ -1,0 +1,616 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"htt",
+				"http"
+			],
+			[
+				"book",
+				"book_detail"
+			],
+			[
+				"req",
+				"reqid"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"li",
+				"list_display"
+			],
+			[
+				"re",
+				"reqid"
+			],
+			[
+				"even",
+				"eventname"
+			],
+			[
+				"event",
+				"eventroom"
+			],
+			[
+				"A",
+				"A"
+			],
+			[
+				"date",
+				"date_detail"
+			],
+			[
+				"date_",
+				"date_detail"
+			],
+			[
+				"datetim",
+				"datetimeobject"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"im",
+				"image_test"
+			],
+			[
+				"tie",
+				"timedelta"
+			],
+			[
+				"temp",
+				"tempdate"
+			],
+			[
+				"pro",
+				"proxy_dict"
+			],
+			[
+				"T",
+				"TextField"
+			],
+			[
+				"da",
+				"DateField"
+			],
+			[
+				"m",
+				"models"
+			],
+			[
+				"get",
+				"get"
+			],
+			[
+				"in",
+				"input_detail"
+			],
+			[
+				"on",
+				"on_action"
+			],
+			[
+				"tra",
+				"track_return"
+			],
+			[
+				"dash",
+				"dash_history"
+			],
+			[
+				"che",
+				"check_verify"
+			],
+			[
+				"prof",
+				"prof_contactadmin"
+			],
+			[
+				"prof_",
+				"prof_contact"
+			],
+			[
+				"booked",
+				"bookedadmin"
+			],
+			[
+				"eve",
+				"eventname"
+			],
+			[
+				"reu",
+				"request"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"csrf",
+				"csrf_exempt"
+			],
+			[
+				"chec",
+				"check_rooms"
+			],
+			[
+				"time",
+				"timedelta"
+			],
+			[
+				"auto_",
+				"auto_now_add"
+			],
+			[
+				"boo",
+				"bookadmin"
+			],
+			[
+				"s",
+				"stime"
+			],
+			[
+				"C",
+				"CharField"
+			],
+			[
+				"g",
+				"get"
+			],
+			[
+				"P",
+				"POST"
+			],
+			[
+				"incharge",
+				"inchargeadmin"
+			],
+			[
+				"step",
+				"step1"
+			],
+			[
+				"des",
+				"designation"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"track",
+				"trackadmin"
+			],
+			[
+				"condby",
+				"condbyname"
+			],
+			[
+				"check",
+				"check_room"
+			],
+			[
+				"pas",
+				"PassWord"
+			],
+			[
+				"http",
+				"HttpResponse"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/book_detail/models.py",
+			"settings":
+			{
+				"buffer_size": 1460,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/book_detail/admin.py",
+			"settings":
+			{
+				"buffer_size": 743,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/book_detail/views.py",
+			"settings":
+			{
+				"buffer_size": 5174,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/trydjango19/urls.py",
+			"settings":
+			{
+				"buffer_size": 1806,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/check/models.py",
+			"settings":
+			{
+				"buffer_size": 1002,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/check/views.py",
+			"settings":
+			{
+				"buffer_size": 2760,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/check_room/views.py",
+			"settings":
+			{
+				"buffer_size": 12530,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/sourabh/python/Django_project/src/check_room/views.py",
+		"/home/sourabh/python/Django_project/src/check/views.py",
+		"/home/sourabh/python/Django_project/src/trydjango19/settings.py",
+		"/home/sourabh/python/Django_project/src/check/models.py",
+		"/home/sourabh/python/Django_project/src/check_room/models.py",
+		"/home/sourabh/python/Django_project/src/book_detail/models.py",
+		"/home/sourabh/python/Django_project/src/book_detail/views.py",
+		"/home/sourabh/python/Django_project/src/book_detail/admin.py",
+		"/home/sourabh/python/Django_project/src/posts/models.py",
+		"/home/sourabh/python/Django_project/src/posts/views.py",
+		"/home/sourabh/python/Django_project/src/check_room/admin.py",
+		"/home/sourabh/python/Django_project/src/trydjango19/urls.py",
+		"/home/sourabh/python/Django_project/src/check/admin.py",
+		"/home/sourabh/python/Django_project/src/template/test.html",
+		"/home/sourabh/python/Django_project/src/template/test1.html",
+		"/home/sourabh/python/Django_project/src/posts/urls.py",
+		"/home/sourabh/python/Django_project/src/posts/admin.py",
+		"/home/sourabh/python/Django_project/src/check_room/migrations/0001_initial.py",
+		"/home/sourabh/python/Django_project/src/check/apps.py",
+		"/home/sourabh/python/Django_project/src/trydjango19/__init__.py",
+		"/home/sourabh/python/Django_project/src/db.sqlite3",
+		"/home/sourabh/python/Django_project/src/check_room/apps.py",
+		"/home/sourabh/python/Django_project/src/trydjango19/wsgi.py",
+		"/home/sourabh/python/Django_project/src/check_room/urls.py",
+		"/home/sourabh/python/Django_project/src/registraion/models.py",
+		"/home/sourabh/python/Django_project/src/template/index.html",
+		"/home/sourabh/python/Django_project/src/template/details.html",
+		"/home/sourabh/python/Django_project/src/posts/__init__.py",
+		"/home/sourabh/python/Django_project/src.sublime-project"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"url",
+			"requests\n",
+			"\":['\n",
+			"POST",
+			"avail",
+			"availa",
+			"avail",
+			"True",
+			"updated"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/book_detail/models.py",
+					"settings":
+					{
+						"buffer_size": 1460,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40,
+								97
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 68.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/book_detail/admin.py",
+					"settings":
+					{
+						"buffer_size": 743,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/book_detail/views.py",
+					"settings":
+					{
+						"buffer_size": 5174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4128,
+								4128
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1326.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/trydjango19/urls.py",
+					"settings":
+					{
+						"buffer_size": 1806,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1377,
+								1377
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 255.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/check/models.py",
+					"settings":
+					{
+						"buffer_size": 1002,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/check/views.py",
+					"settings":
+					{
+						"buffer_size": 2760,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								726,
+								726
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 255.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/check_room/views.py",
+					"settings":
+					{
+						"buffer_size": 12530,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2056.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true
+}

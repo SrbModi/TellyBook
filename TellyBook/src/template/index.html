@@ -1,0 +1,19 @@
+<html>
+<body>
+
+<h1>{{title}} is Working!</h1>
+
+{% for obj in object_list%}
+
+
+<a href="/posts/detail/{{ obj.id }}">Title = {{obj.title}}</a></br>
+Content = {{obj.content}}</br>
+Timestamp = {{obj.timestamp}}</br>
+Updated = {{obj.updated}}</br>
+ID = {{obj.id}}</br>
+
+{% endfor %}
+
+</body>
+
+</html>
